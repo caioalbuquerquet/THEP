@@ -19,7 +19,7 @@ body {
    min-height: 100vh;
    font-family: 'Poppins', sans-serif;
    color: white;
-   background-image: url(img/ondulacao.png);
+   background-image: url(ondulacao.png);
    background-repeat: no-repeat;
    overflow: hidden;
 }
